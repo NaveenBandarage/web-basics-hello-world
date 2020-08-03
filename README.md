@@ -81,3 +81,4 @@ None of these ideas have examples or hints on where to write the code (so you'll
   * When lives run out the game is over
 * Customise the trivia game to be multi-choice instead of true or false (generate a new api url here: https://opentdb.com/api_config.php)
   * Can extend this to allow the player to choose the trivia category before they begin the trivia game
+Basically finished now tbh. 
